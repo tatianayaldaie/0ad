@@ -32,6 +32,7 @@ var oCrocodile = "gaia/fauna_crocodile";
 var oFish = "gaia/fauna_fish";
 var oStoneSmall = "gaia/geology_stone_savanna_small";
 var oMetalLarge = "gaia/geology_metal_savanna_slabs";
+var oCat = "gaia/fauna_cat";
 
 var aBush = "actor|props/flora/bush_medit_sm_dry.xml";
 var aRock = "actor|geology/stone_savanna_med.xml";
@@ -212,7 +213,7 @@ createFood(
 	[
 		[new SimpleObject(oHawk, 1, 1, 0, 3)],
 		[new SimpleObject(oGazelle, 3, 5, 0, 3)],
-		[new SimpleObject(oZebra, 3, 5, 0, 3)],
+		[new SimpleObject(oCat, 3, 5, 0, 3)],
 		[new SimpleObject(oWildebeest, 4, 6, 0, 3)],
 		[new SimpleObject(oRhino, 1, 1, 0, 3)]
 	],
@@ -225,6 +226,8 @@ createFood(
 	],
 	avoidClasses(clFood, 20, clWater, 5, clHill, 2, clPlayer, 16),
 	clFood);
+
+	
 
 createFood(
 	[
