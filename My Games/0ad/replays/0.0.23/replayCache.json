@@ -1,0 +1,1477 @@
+[
+  {
+    "directory": "2020-02-17_0001",
+    "fileSize": 4593,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "kush",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Indibil",
+            "Civ": "iber",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 2343085266,
+        "AISeed": 1911426576
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "05D358470566278A",
+      "timestamp": 1581950861,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 31
+  },
+  {
+    "directory": "2020-02-17_0002",
+    "fileSize": 1993,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "pers",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Liscus",
+            "Civ": "gaul",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 22279319,
+        "AISeed": 266393865
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "D51DA56D9DBE7CB0",
+      "timestamp": 1581954146,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 6
+  },
+  {
+    "directory": "2020-02-17_0003",
+    "fileSize": 4084,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "kush",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Chandragupta Maurya",
+            "Civ": "maur",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Lucius Papirius Cursor",
+            "Civ": "rome",
+            "Color": {
+              "r": 86,
+              "g": 180,
+              "b": 31
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Devavarman Maurya",
+            "Civ": "maur",
+            "Color": {
+              "r": 231,
+              "g": 200,
+              "b": 5
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "CircularMap": true,
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "RevealMap": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LockTeams": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "Name": "India",
+        "Script": "india.js",
+        "Description": "Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.",
+        "Preview": "india.png",
+        "Keywords": [],
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "random",
+        "Seed": 3919172278,
+        "AISeed": 3846096082
+      },
+      "mapType": "random",
+      "mapPath": "maps/random/",
+      "mapFilter": "all",
+      "gameSpeed": 1,
+      "script": "india.js",
+      "map": "maps/random/india",
+      "matchID": "274865542E03F12D",
+      "timestamp": 1581955406,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 25
+  },
+  {
+    "directory": "2020-02-17_0004",
+    "fileSize": 8484,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "maur",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Indibil",
+            "Civ": "iber",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Bardiya",
+            "Civ": "pers",
+            "Color": {
+              "r": 86,
+              "g": 180,
+              "b": 31
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Hasdrubal Gisco",
+            "Civ": "cart",
+            "Color": {
+              "r": 231,
+              "g": 200,
+              "b": 5
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "CircularMap": true,
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "RevealMap": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LockTeams": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "Name": "India",
+        "Script": "india.js",
+        "Description": "Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.",
+        "Preview": "india.png",
+        "Keywords": [],
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "random",
+        "Seed": 1028737506,
+        "AISeed": 475731234
+      },
+      "mapType": "random",
+      "mapPath": "maps/random/",
+      "mapFilter": "all",
+      "gameSpeed": 1,
+      "script": "india.js",
+      "map": "maps/random/india",
+      "matchID": "8A2AE90D171C2E3D",
+      "timestamp": 1581956863,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 72
+  },
+  {
+    "directory": "2020-02-17_0005",
+    "fileSize": 4726,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "spart",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Indibil",
+            "Civ": "iber",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Darayavahush I",
+            "Civ": "pers",
+            "Color": {
+              "r": 86,
+              "g": 180,
+              "b": 31
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Viridomarus",
+            "Civ": "gaul",
+            "Color": {
+              "r": 231,
+              "g": 200,
+              "b": 5
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "CircularMap": true,
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "RevealMap": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LockTeams": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "Name": "India",
+        "Script": "india.js",
+        "Description": "Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.",
+        "Preview": "india.png",
+        "Keywords": [],
+        "RatingEnabled": false,
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "random",
+        "Seed": 2566340217,
+        "AISeed": 911683538
+      },
+      "mapType": "random",
+      "mapPath": "maps/random/",
+      "mapFilter": "all",
+      "gameSpeed": 1,
+      "script": "india.js",
+      "map": "maps/random/india",
+      "matchID": "21E6B7B5F7D81EB2",
+      "timestamp": 1581957154,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 32
+  },
+  {
+    "directory": "2020-02-17_0006",
+    "fileSize": 9706,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "iber",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Viriato",
+            "Civ": "iber",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Acharya Bhadrabahu",
+            "Civ": "maur",
+            "Color": {
+              "r": 86,
+              "g": 180,
+              "b": 31
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Gaius Servilius Structus Ahala",
+            "Civ": "rome",
+            "Color": {
+              "r": 231,
+              "g": 200,
+              "b": 5
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "CircularMap": true,
+        "Size": 512,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "RevealMap": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LockTeams": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "Name": "India",
+        "Script": "india.js",
+        "Description": "Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.",
+        "Preview": "india.png",
+        "Keywords": [],
+        "RatingEnabled": false,
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "random",
+        "Seed": 3121084111,
+        "AISeed": 3832620295
+      },
+      "mapType": "random",
+      "mapPath": "maps/random/",
+      "mapFilter": "all",
+      "gameSpeed": 1,
+      "script": "india.js",
+      "map": "maps/random/india",
+      "matchID": "03C8C2BEE1BAC51D",
+      "timestamp": 1581957239,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 83
+  },
+  {
+    "directory": "2020-02-17_0007",
+    "fileSize": 4957,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "brit",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Divico",
+            "Civ": "gaul",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Ptolemy Soter",
+            "Civ": "ptol",
+            "Color": {
+              "r": 86,
+              "g": 180,
+              "b": 31
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Dasaratha Maurya",
+            "Civ": "maur",
+            "Color": {
+              "r": 231,
+              "g": 200,
+              "b": 5
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "CircularMap": true,
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "RevealMap": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LockTeams": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "Name": "India",
+        "Script": "india.js",
+        "Description": "Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.",
+        "Preview": "india.png",
+        "Keywords": [],
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "random",
+        "Seed": 1329644944,
+        "AISeed": 1155341722
+      },
+      "mapType": "random",
+      "mapPath": "maps/random/",
+      "mapFilter": "all",
+      "gameSpeed": 1,
+      "script": "india.js",
+      "map": "maps/random/india",
+      "matchID": "B49C9926C1865AAD",
+      "timestamp": 1581957729,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 34
+  },
+  {
+    "directory": "2020-02-17_0008",
+    "fileSize": 7455,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "maur",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Xsayarsa II",
+            "Civ": "pers",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Viriato",
+            "Civ": "iber",
+            "Color": {
+              "r": 86,
+              "g": 180,
+              "b": 31
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Ambiorix",
+            "Civ": "gaul",
+            "Color": {
+              "r": 231,
+              "g": 200,
+              "b": 5
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "CircularMap": true,
+        "Size": 320,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "RevealMap": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LockTeams": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "Name": "India",
+        "Script": "india.js",
+        "Description": "Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.",
+        "Preview": "india.png",
+        "Keywords": [],
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "random",
+        "Seed": 314442333,
+        "AISeed": 2766037873
+      },
+      "mapType": "random",
+      "mapPath": "maps/random/",
+      "mapFilter": "all",
+      "gameSpeed": 1,
+      "script": "india.js",
+      "map": "maps/random/india",
+      "matchID": "74F07504EA0D2D8D",
+      "timestamp": 1581957789,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 61
+  },
+  {
+    "directory": "2020-02-17_0009",
+    "fileSize": 3374,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "brit",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Bardiya",
+            "Civ": "pers",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Seleucus III Ceraunus",
+            "Civ": "sele",
+            "Color": {
+              "r": 86,
+              "g": 180,
+              "b": 31
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Lysimachus",
+            "Civ": "mace",
+            "Color": {
+              "r": 231,
+              "g": 200,
+              "b": 5
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "CircularMap": true,
+        "Size": 320,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "RevealMap": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LockTeams": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "Name": "India",
+        "Script": "india.js",
+        "Description": "Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.",
+        "Preview": "india.png",
+        "Keywords": [],
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "random",
+        "Seed": 2705213865,
+        "AISeed": 2047477811
+      },
+      "mapType": "random",
+      "mapPath": "maps/random/",
+      "mapFilter": "all",
+      "gameSpeed": 1,
+      "script": "india.js",
+      "map": "maps/random/india",
+      "matchID": "1A4DA7CE6CCA4377",
+      "timestamp": 1581958011,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 18
+  },
+  {
+    "directory": "2020-02-17_0010",
+    "fileSize": 2596,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "cart",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Hasdrubal Gisco",
+            "Civ": "cart",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Devavarman Maurya",
+            "Civ": "maur",
+            "Color": {
+              "r": 86,
+              "g": 180,
+              "b": 31
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Ptolemy Philadelphus",
+            "Civ": "ptol",
+            "Color": {
+              "r": 231,
+              "g": 200,
+              "b": 5
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "CircularMap": true,
+        "Size": 320,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "RevealMap": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LockTeams": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "Name": "India",
+        "Script": "india.js",
+        "Description": "Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.",
+        "Preview": "india.png",
+        "Keywords": [],
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "random",
+        "Seed": 1330390983,
+        "AISeed": 3580585942
+      },
+      "mapType": "random",
+      "mapPath": "maps/random/",
+      "mapFilter": "all",
+      "gameSpeed": 1,
+      "script": "india.js",
+      "map": "maps/random/india",
+      "matchID": "BD45BA78D4C4F8CB",
+      "timestamp": 1581958167,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 9
+  },
+  {
+    "directory": "2020-02-17_0011",
+    "fileSize": 4067,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "kush",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Alexander the Great",
+            "Civ": "mace",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Cingetorix",
+            "Civ": "gaul",
+            "Color": {
+              "r": 86,
+              "g": 180,
+              "b": 31
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Haxamanish",
+            "Civ": "pers",
+            "Color": {
+              "r": 231,
+              "g": 200,
+              "b": 5
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "CircularMap": true,
+        "Size": 320,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "RevealMap": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LockTeams": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "Name": "India",
+        "Script": "india.js",
+        "Description": "Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.",
+        "Preview": "india.png",
+        "Keywords": [],
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "random",
+        "Seed": 707883782,
+        "AISeed": 3575982238
+      },
+      "mapType": "random",
+      "mapPath": "maps/random/",
+      "mapFilter": "all",
+      "gameSpeed": 1,
+      "script": "india.js",
+      "map": "maps/random/india",
+      "matchID": "7CA5060F5D49744A",
+      "timestamp": 1581958347,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 25
+  },
+  {
+    "directory": "2020-02-17_0012",
+    "fileSize": 11837,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "brit",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Ptolemy Eurgetes",
+            "Civ": "ptol",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Antiochus XIII Asiaticus",
+            "Civ": "sele",
+            "Color": {
+              "r": 86,
+              "g": 180,
+              "b": 31
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Nasalsa",
+            "Civ": "kush",
+            "Color": {
+              "r": 231,
+              "g": 200,
+              "b": 5
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "CircularMap": true,
+        "Size": 320,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "RevealMap": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LockTeams": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "Name": "India",
+        "Script": "india.js",
+        "Description": "Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.",
+        "Preview": "india.png",
+        "Keywords": [],
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "random",
+        "Seed": 3742167665,
+        "AISeed": 2439397311
+      },
+      "mapType": "random",
+      "mapPath": "maps/random/",
+      "mapFilter": "all",
+      "gameSpeed": 1,
+      "script": "india.js",
+      "map": "maps/random/india",
+      "matchID": "C182055D7EBCBAC0",
+      "timestamp": 1581958741,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ]
+      ]
+    },
+    "duration": 103
+  },
+  {
+    "directory": "2020-02-21_0001",
+    "fileSize": 62606,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Ashkan",
+            "Civ": "pers",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Hasdrubal Barca",
+            "Civ": "cart",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Ditalcus",
+            "Civ": "iber",
+            "Color": {
+              "r": 86,
+              "g": 180,
+              "b": 31
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Antiochus XI Epiphanes",
+            "Civ": "sele",
+            "Color": {
+              "r": 231,
+              "g": 200,
+              "b": 5
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js",
+          "scripts/TriggerHelper.js",
+          "random/fert_triggers.js"
+        ],
+        "CircularMap": true,
+        "Biome": "generic/alpine",
+        "SupportedBiomes": "generic/",
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "RevealMap": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LockTeams": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "Name": "Fert",
+        "Script": "fert.js",
+        "Description": "King of the hill type map with a hill in the center with a wonder placed on top.\n[color=\"red\"]Wonder and walls disabled.\nWonder win condition needs to be enabled to work.[/color]",
+        "Keywords": [
+          "new",
+          "trigger",
+          "community"
+        ],
+        "Preview": "fert.png",
+        "Version": "0.1.5",
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "random",
+        "Seed": 1851586841,
+        "AISeed": 152117671
+      },
+      "mapType": "random",
+      "mapPath": "maps/random/",
+      "mapFilter": "community",
+      "script": "fert.js",
+      "gameSpeed": 1,
+      "map": "maps/random/fert",
+      "matchID": "5EB3C55C11323E3A",
+      "timestamp": 1582258896,
+      "engine_version": "0.0.23",
+      "mods": [
+        [
+          "public",
+          "0.0.23"
+        ],
+        [
+          "community_maps",
+          "0.0.7"
+        ]
+      ]
+    },
+    "duration": 535
+  }
+]

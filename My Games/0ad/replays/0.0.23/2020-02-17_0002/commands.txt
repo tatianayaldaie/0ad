@@ -1,0 +1,61 @@
+start {"settings":{"PlayerData":[{"Name":"Ashkan","Civ":"pers","Color":{"r":21,"g":55,"b":149},"AI":"","AIDiff":3,"AIBehavior":"random","Team":-1},{"Name":"Liscus","Civ":"gaul","Color":{"r":150,"g":20,"b":20},"AI":"petra","AIDiff":3,"AIBehavior":"random","Team":-1}],"CircularMap":true,"Description":"Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.","Keywords":[],"LockTeams":false,"Name":"Acropolis Bay (2)","Preview":"acropolis_bay.png","RevealMap":false,"VictoryConditions":["conquest"],"Size":256,"PopulationCap":300,"StartingResources":300,"Ceasefire":0,"RelicCount":2,"RelicDuration":20,"WonderDuration":20,"RegicideGarrison":false,"Nomad":false,"ExploreMap":false,"DisableTreasures":false,"DisableSpies":false,"LastManStanding":false,"CheatsEnabled":true,"RatingEnabled":false,"VictoryScripts":["scripts/TriggerHelper.js","scripts/ConquestCommon.js","scripts/Conquest.js"],"TriggerScripts":["scripts/TriggerHelper.js","scripts/ConquestCommon.js","scripts/Conquest.js"],"mapType":"skirmish","Seed":22279319,"AISeed":266393865},"mapType":"skirmish","mapPath":"maps/skirmishes/","mapFilter":"default","map":"maps/skirmishes/Acropolis Bay (2)","gameSpeed":1,"matchID":"D51DA56D9DBE7CB0","timestamp":1581954146,"engine_version":"0.0.23","mods":[["public","0.0.23"]]}
+turn 0 200
+end
+turn 1 200
+end
+turn 2 200
+end
+turn 3 200
+end
+turn 4 200
+end
+turn 5 200
+end
+turn 6 200
+end
+turn 7 200
+end
+turn 8 200
+end
+turn 9 200
+end
+turn 10 200
+end
+turn 11 200
+end
+turn 12 200
+end
+turn 13 200
+end
+turn 14 200
+end
+turn 15 200
+end
+turn 16 200
+end
+turn 17 200
+end
+turn 18 200
+end
+turn 19 200
+end
+turn 20 200
+end
+turn 21 200
+end
+turn 22 200
+end
+turn 23 200
+end
+turn 24 200
+end
+turn 25 200
+end
+turn 26 200
+end
+turn 27 200
+end
+turn 28 200
+end
+turn 29 200
+end

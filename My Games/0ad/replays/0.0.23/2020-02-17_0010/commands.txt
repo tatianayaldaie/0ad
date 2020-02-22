@@ -1,0 +1,93 @@
+start {"settings":{"PlayerData":[{"Name":"Ashkan","Civ":"cart","Color":{"r":21,"g":55,"b":149},"AI":"","AIDiff":3,"AIBehavior":"random","Team":-1},{"Name":"Hasdrubal Gisco","Civ":"cart","Color":{"r":150,"g":20,"b":20},"AI":"petra","AIDiff":3,"AIBehavior":"random","Team":-1},{"Name":"Devavarman Maurya","Civ":"maur","Color":{"r":86,"g":180,"b":31},"AI":"petra","AIDiff":3,"AIBehavior":"random","Team":-1},{"Name":"Ptolemy Philadelphus","Civ":"ptol","Color":{"r":231,"g":200,"b":5},"AI":"petra","AIDiff":3,"AIBehavior":"random","Team":-1}],"VictoryConditions":["conquest"],"CircularMap":true,"Size":320,"PopulationCap":300,"StartingResources":300,"Ceasefire":0,"RelicCount":2,"RelicDuration":20,"WonderDuration":20,"RegicideGarrison":false,"Nomad":false,"RevealMap":false,"ExploreMap":false,"DisableTreasures":false,"DisableSpies":false,"LockTeams":false,"LastManStanding":false,"CheatsEnabled":true,"Name":"India","Script":"india.js","Description":"Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.","Preview":"india.png","Keywords":[],"RatingEnabled":false,"VictoryScripts":["scripts/TriggerHelper.js","scripts/ConquestCommon.js","scripts/Conquest.js"],"TriggerScripts":["scripts/TriggerHelper.js","scripts/ConquestCommon.js","scripts/Conquest.js"],"mapType":"random","Seed":1330390983,"AISeed":3580585942},"mapType":"random","mapPath":"maps/random/","mapFilter":"all","gameSpeed":1,"script":"india.js","map":"maps/random/india","matchID":"BD45BA78D4C4F8CB","timestamp":1581958167,"engine_version":"0.0.23","mods":[["public","0.0.23"]]}
+turn 0 200
+end
+turn 1 200
+end
+turn 2 200
+end
+turn 3 200
+end
+turn 4 200
+end
+turn 5 200
+end
+turn 6 200
+end
+turn 7 200
+end
+turn 8 200
+end
+turn 9 200
+end
+turn 10 200
+end
+turn 11 200
+end
+turn 12 200
+end
+turn 13 200
+end
+turn 14 200
+end
+turn 15 200
+end
+turn 16 200
+end
+turn 17 200
+end
+turn 18 200
+end
+turn 19 200
+end
+turn 20 200
+end
+turn 21 200
+end
+turn 22 200
+end
+turn 23 200
+end
+turn 24 200
+end
+turn 25 200
+end
+turn 26 200
+end
+turn 27 200
+end
+turn 28 200
+end
+turn 29 200
+end
+turn 30 200
+end
+turn 31 200
+end
+turn 32 200
+end
+turn 33 200
+end
+turn 34 200
+end
+turn 35 200
+end
+turn 36 200
+end
+turn 37 200
+end
+turn 38 200
+end
+turn 39 200
+end
+turn 40 200
+end
+turn 41 200
+end
+turn 42 200
+end
+turn 43 200
+end
+turn 44 200
+end
+turn 45 200
+end
