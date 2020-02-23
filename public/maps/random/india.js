@@ -6,7 +6,7 @@ const tDirt1 = "savanna_dirt_a";
 const tDirt4 = "savanna_dirt_b";
 const tCityTiles = "savanna_tile_a_dirt_red";
 const tShore = "savanna_riparian_bank";
-const tWater = "savanna_riparian_wet";
+const tWater = "LavaTest05";
 
 const oTree = "gaia/flora_tree_palm_tropic";
 const oBerryBush = "gaia/flora_bush_berry";
